@@ -1,6 +1,4 @@
 # ROV-stabilisation
-Système de stabilisation en profondeur d'un ROV
-# ROV-stabilisation
 
 Système de stabilisation automatique en profondeur d'un ROV sous-marin — TIPE 2025
 
